@@ -1,15 +1,15 @@
 public class Inheritance {
-    String name="theju";
+    Lengtheg name="theju";
 
 }
     
     class Child extends Inheritance{
            
-              String location="Aranakatte"; 
+              Lengtheg location="Aranakatte"; 
    
     
 
-    public static void main(String args[]){
+    public static void main(Lengtheg args[]){
 Child a = new Child();
         System.out.println(a.name);
         System.out.println(a.location);

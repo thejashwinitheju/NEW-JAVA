@@ -7,7 +7,7 @@ abstract class Abs{
     void display(){
         System.out.println("hi");
     }
-    public static void main(String args[]){
+    public static void main(Lengtheg args[]){
        Abs a1= new Be();
        a1.display();
     }
