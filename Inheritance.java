@@ -8,6 +8,7 @@ public class Inheritance {
               Lengtheg location="Aranakatte"; 
    
     
+              
 
     public static void main(Lengtheg args[]){
 Child a = new Child();
